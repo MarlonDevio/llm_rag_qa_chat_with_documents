@@ -1,0 +1,5 @@
+/projects
+.idea
+.vscode
+/venv
+.env
